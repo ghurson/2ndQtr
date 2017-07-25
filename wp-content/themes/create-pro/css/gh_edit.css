@@ -1,0 +1,120 @@
+.site-branding {
+    padding: 1rem 0 1.5rem;
+}
+
+.site-title {
+    margin-top: 0;
+    line-height: 9rem;
+}
+
+h1.site-title a {
+    font-family: 'voces', sans-serif;
+    font-size: 7.2rem;
+    letter-spacing: -0.1rem;
+}
+
+.create-menu ul li a {
+    font-family: 'voces';
+}
+
+.site-description {
+    padding-bottom: 0;
+}
+
+.page-id-2 #text-7:after {
+    display: none;
+}
+
+.gh_excerpt {
+    padding: 1rem 0 0;
+}
+
+.gh_excerpt h2 {
+    margin-bottom: .25rem;
+}
+
+.gh_excerpt .meta {
+    float: right;
+    width: 70%;
+}
+
+.gh_excerpt img {
+    width: 25%;
+    height: auto;
+}
+
+.gh_excerpt .entry-meta {
+    margin-top: 0;
+}
+
+.wp-pagenavi {
+    text-align: center;
+    border-top: 1px solid #e8e8e8;
+    padding-top: .5rem;
+}
+
+.wp-pagenavi * {
+    border: none !important;
+}
+
+.gh_testimonial h2 {
+    margin: .5rem 0 0 0;
+    font-size: 1rem;
+}
+
+.gh_testimonial p {
+    font-size: .8rem;
+    margin: 0;
+}
+
+.gh_quote {
+    font-size: 19px;
+    line-height: 28px;
+    text-align: center;
+    text-align: center;
+}
+
+.gh_quote p {
+    margin-bottom: 8px;
+}
+
+.gh_byline {
+    font-size: 14px;
+    text-align: right;
+    font-style: italic;
+}
+
+@media screen and (max-width: 890px) {
+
+    .gh_excerpt img {
+        display: inline-block;
+        margin: 0;
+    }
+
+}
+
+.site-description.updated-description {
+    font-size: 22px;
+    margin-bottom: 10px;
+    letter-spacing: 0.3px;
+}
+
+.header-description {
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+.header-description li {
+    display: inline-block;
+    padding: 0 8px;
+}
+
+.header-description a {
+    transition: 250ms all ease-out;
+    color: #dbdada;
+}
+
+.header-description a:hover {
+    color: #cfa205;
+}

@@ -1,0 +1,15 @@
+== Changelog ==
+
+= 1.2 =
+* Added CSS effect for drop down menu
+* Fixed menu dropdown issue (Reported by Ellen & David)
+
+= 1.1 =
+* Added three-columns tag
+* Added Font Family Options
+* Bug Fixed: Classes for excerpt and content fixed in content.php
+* Removed extra css and border issue in style.css
+* Removed unnecessary font: Alegreya in blockquote
+
+= 1.0 =
+* Initial Release
