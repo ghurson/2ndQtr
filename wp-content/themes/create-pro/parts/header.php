@@ -20,7 +20,7 @@ else {
 <p class="site-description updated-description">Content Marketing</p>
 
 <ul class="header-description">
-    <li><a href="#">Real Estate</a></li>
-    <li><a href="#">Non-Profits</a></li>
-    <li><a href="#">Social Media</a></li>
+    <li>Real Estate</li>
+    <li>Non-Profits</li>
+    <li>Social Media</li>
 </ul>

@@ -26,8 +26,7 @@
 
             <div class="site-branding">
                 <?
-                $template = isset($_GET['new_header']) ? 'header' : 'header-old';
-                get_template_part('parts/' . $template);
+                get_template_part('parts/header');
                 ?>
             </div>
             <!-- .site-branding -->
